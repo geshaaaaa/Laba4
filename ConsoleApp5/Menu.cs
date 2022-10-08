@@ -47,7 +47,7 @@ namespace zavd3
             Console.WriteLine("Ціна та грами:");
             PricenWeight pricenWeight = new PricenWeight(210, 440);
             Console.WriteLine($"Позиція:{position.S} Розділ:{position.T} Ціна:{pricenWeight.A} Грами:{pricenWeight.B}");
-
+//end
         }
 
 
